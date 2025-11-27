@@ -2,6 +2,7 @@
 
 🧠 Computer Science student<br>
 💻 I create cool little websites to stay consistent
+😎 Recent little website I finished, you can check it out here: https://makrisan.github.io/Timer/
 
 
 # 💻 Tech Stack:
