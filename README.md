@@ -1,7 +1,7 @@
 ## Hi, I'm Kristina ✨
 
 🧠 Computer Science student<br>
-💻 I create cool little websites to stay consistent
+💻 I create cool little websites to stay consistent<br>
 😎 Recent little website I finished, you can check it out here: https://makrisan.github.io/Timer/
 
 
