@@ -1,7 +1,7 @@
 ## Hi, I'm Kristina ✨
 💻 I make little projects for fun (website, game, AI)<br>🧠 Currently studying Computer Science <br>✨ Huge fan of the show Arcane!! <br> 😎 Recent little website I finished, you can check it out here: https://makrisan.github.io/Timer/
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MariaKristinaAndranikyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-kristina-andranikyan/)
 
 
 # Tech Stack:
